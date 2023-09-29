@@ -1,0 +1,39 @@
+[{
+    "id": 1,
+    "name": "Whiskers",
+    "age": 4,
+    "breed": "Siamese",
+    "color": "Cream",
+    "weight_kg": 5.2,
+    "is_neutered": true,
+    "owner": {
+      "name": "John Doe",
+      "contact": "john@example.com"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Mittens",
+    "age": 2,
+    "breed": "Persian",
+    "color": "Gray",
+    "weight_kg": 4.8,
+    "is_neutered": false,
+    "owner": {
+      "name": "Jane Smith",
+      "contact": "jane@example.com"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Oliver",
+    "age": 3,
+    "breed": "Maine Coon",
+    "color": "Black",
+    "weight_kg": 6.5,
+    "is_neutered": true,
+    "owner": {
+      "name": "Michael Johnson",
+      "contact": "michael@example.com"
+    }
+  }]
